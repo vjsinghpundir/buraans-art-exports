@@ -731,7 +731,7 @@ function App() {
                 <img src="/vijay singh pundir.jpg" alt="Vijay Singh Pundir" />
               </div>
               <div className="profile-resume-name-card">
-                <h2>Vijay Singh Pundir</h2>
+                <h2>Jeet Singh Chouhan</h2>
                 <p>Founder & Export Director</p>
               </div>
               <div className="profile-resume-contact">
