@@ -728,7 +728,7 @@ function App() {
 
             <aside className="profile-resume-identity">
               <div className="profile-resume-photo-wrap">
-                <img src="/vijay singh pundir.jpg" alt="Vijay Singh Pundir" />
+                <img src="/jeet singh chouhan.jpg" alt="Jeet Singh Chouhan" />
               </div>
               <div className="profile-resume-name-card">
                 <h2>Jeet Singh Chouhan</h2>
